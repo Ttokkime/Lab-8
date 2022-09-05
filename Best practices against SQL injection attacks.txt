@@ -1,0 +1,1 @@
+Best practices to prevent SQL injection attacks include using an ORM layer, having prepared statements in the code, and having someone actively patch and manage the code. 
